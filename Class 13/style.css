@@ -1,0 +1,25 @@
+
+/*  EXTERNAL CSS    */
+
+/* 
+.heading3 {
+    background-color: aqua;
+    color: blueviolet;
+}
+h1 {
+    background: blue;
+} */
+/* class target dot sa (.) */
+
+/* * {
+    color: red;
+    background-color: chartreuse;
+} */
+
+
+/* type selector */
+
+h1 , p {
+    background-color: aqua;
+    color: blueviolet;
+}

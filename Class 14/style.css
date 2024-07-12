@@ -1,0 +1,80 @@
+/* h1 {
+    background-color: aquamarine;
+    color: aliceblue;
+}
+*{
+    background-color: black;
+    color: white;
+} */
+
+/* h1 , p ,b {
+    background-color: brown;
+    color:white;
+} */
+
+/* .heading {
+    background-color:aqua ;
+    color: black;
+}
+
+.colorred {
+    background-color: blue;
+    color: black;
+}
+h1.colorred{
+    background-color: brown;
+    color: aqua;
+} */
+
+
+/*    child selector   */
+/* 
+.pappa > p{
+    background-color: pink;
+    color: black;
+} */
+
+
+/* .pappa p{
+    background-color: pink;
+    color: black;
+} */
+
+/* 
+.absolutelink > a{
+    color: yellow;
+
+}
+.relativelink >a{
+    color: black;
+
+}
+.linkcontainer a{
+    text-decoration: none;
+
+}
+
+#newh{
+    color: red;
+}
+.heading{
+    color: black;
+    background-color: black;
+}
+ h1{
+    color: blue;
+} 
+*{
+    color: blueviolet;
+}  */
+
+h1{
+    /* color: rgb(0, 0, 0);
+    color: 	#800000; */
+    color: rgba(0, 0, 0, 0.1);
+}
+
+button{
+    background-color:  #b48484 ;
+    opacity: 0.2;
+}

@@ -1,0 +1,4 @@
+1st step
+
+Sign up Github
+download git scm

@@ -1,0 +1,19 @@
+div {
+    background: red;
+}
+
+
+/* h1{
+    background: blue;
+} */
+
+.styleheading {
+    background: blueviolet;
+    color: white;
+}
+/* class target    using . */
+/* id target    using # */
+#uheading {
+    background: violet;
+}
+
